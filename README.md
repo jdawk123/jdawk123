@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋, I'm Jeremy Dawkins
+#### Data Science Graduate Student at Southern Methodist University
+![Data Science Graduate Student](https://blog.paper.li/wp-content/uploads/2020/02/LinkedIn-banner-18-1024x256.png)
 
-<!--
-**jdawk123/jdawk123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Current Graduate Student studying Data Science, who enjoys exploring Big Data and challenges while solving the needs and advancement of our society.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: R / Python / SAS / ML / SQL
+
+- 🔭 I’m currently working on my Master's in Data Science 
+- 🌱 I’m currently learning AWS
+- 💬 Ask me about Analyzing and Interpreting Data 
+- ⚡ Fun fact: I love sleeping 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jdawk123)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jeremydawkins//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](JeremyDawkins80@gmail.com)  
+
+![Profile views](https://gpvc.arturio.dev/jdawk123)  

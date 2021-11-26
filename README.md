@@ -15,4 +15,8 @@ Skills: R / Python / SAS / ML / SQL
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jdawk123)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jeremydawkins//)
 
+
+![SoExcited~GIF (2)](https://user-images.githubusercontent.com/89367924/143544591-54a72f82-d4d3-4b20-a2dd-070e5f058dd1.gif)
+
+
 ![Profile views](https://gpvc.arturio.dev/jdawk123)  

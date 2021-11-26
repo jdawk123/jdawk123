@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Jeremy Dawkins
+### Hello Friends 👋, I'm Jeremy Dawkins
 #### Data Science Graduate Student at Southern Methodist University
 ![Data Science Graduate Student](https://blog.paper.li/wp-content/uploads/2020/02/LinkedIn-banner-18-1024x256.png)
 
